@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\calca\desktop\school\compsci\compsci 3 circle calculator\compsci 3 circle calculator\main.cpp(5,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  compsci 3 circle calculator.vcxproj -> C:\Users\calca\desktop\school\compsci\compsci 3 circle calculator\compsci 3 circle calculator\x64\Debug\compsci 3 circle calculator.exe
